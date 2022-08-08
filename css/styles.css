@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    padding: 10px;
+} 
+
+.blanco {
+    background-color: white;
+}
+
+.rojo {
+    background-color:  red ;
+}
+
+
+.primeracaja{
+    border: 2px orange solid;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.segundacaja{
+    border: 2px black solid;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.botella {
+    text-align: center;
+    background-color: red;
+}
+
+.nombre {
+    font-size: 30px;
+    text-align: center;
+}
+
+.letras {
+    font-size: 35px;
+    text-align: left;
+}
+
+.lasimagenes{
+    text-align: center;
+    border: 3px pink solid;
+    border-left: none;
+}
+
+.letras2{
+    font-size: 20px;
+}
+
+.redes {
+    border: 2px black solid;
+    border-left: none;
+}
